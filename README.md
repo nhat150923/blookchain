@@ -1,26 +1,4 @@
 # blookchain TRO CHOI DOAN SO
-1.Trong thời đại công nghệ 4.0, Blockchain đang nổi lên như một trong những xu hướng công nghệ cách mạng có khả năng định hình lại cách thức con người xây dựng, vận hành và sử dụng các hệ thống thông tin. Từ một nền tảng ra đời nhằm hỗ trợ các loại tiền điện tử như Bitcoin hay Ethereum, blockchain đã dần phát triển thành một hạ tầng công nghệ vững chắc, mở ra tiềm năng ứng dụng rộng rãi trong nhiều lĩnh vực như tài chính, y tế, giáo dục, logistics, và đặc biệt là lĩnh vực giải trí và trò chơi điện tử.
-Song song với sự phát triển đó, mô hình Web3 - Internet phi tập trung - cũng dần hình thành, cho phép người dùng kiểm soát dữ liệu và tài sản số của họ mà không phụ thuộc vào một bên trung gian. Trong hệ sinh thái Web3, ví điện tử phi tập trung như MetaMask đóng vai trò cầu nối quan trọng giữa người dùng và blockchain, giúp người dùng tương tác trực tiếp với các ứng dụng phi tập trung (dApp).
-Trong bối cảnh đó, việc xây dựng một trò chơi đơn giản nhưng có khả năng tích hợp đầy đủ các thành phần của một dApp Web3 – như smart contract, blockchain, ví MetaMask, frontend phi tập trung – là một lựa chọn phù hợp để nghiên cứu, tìm hiểu và áp dụng công nghệ mới. Trò chơi “Đoán số tích hợp blockchain” được lựa chọn bởi tính đơn giản về mặt logic, nhưng lại có khả năng thể hiện đầy đủ quy trình vận hành một ứng dụng Web3 thực tế. Qua đề tài này, người thực hiện mong muốn có thể:
-⦁	Hiểu rõ nguyên lý hoạt động của smart contract và cơ chế lưu trữ minh bạch của blockchain.
-⦁	Biết cách xây dựng giao diện Web tích hợp với ví MetaMask để thực hiện giao dịch trên Ethereum.
-⦁	Thể hiện quy trình phát triển, triển khai và thử nghiệm một ứng dụng phi tập trung hoàn chỉnh.
-2. Mục tiêu nghiên cứu
-⦁	Xây dựng một smart contract bằng ngôn ngữ Solidity để triển khai trò chơi đoán số trên nền tảng blockchain Ethereum.
-⦁	Phát triển giao diện người dùng bằng ReactJS và kết nối với hợp đồng thông minh thông qua thư viện ethers.js.
-⦁	Tích hợp ví MetaMask để người dùng có thể chơi game bằng cách thực hiện các giao dịch blockchain.
-⦁	Đảm bảo tính minh bạch, bảo mật và trải nghiệm thực tế của người chơi trong mô hình trò chơi đơn giản nhưng trực quan.
-3. Phạm vi thực hiện
-⦁	Dự án tập trung trên mạng thử nghiệm Ethereum (testnet như Goerli hoặc Sepolia), không triển khai trên mạng chính.
-⦁	Trò chơi chỉ bao gồm logic đoán số ngẫu nhiên đơn giản trong phạm vi từ 1 đến 10 hoặc 1 đến 100.
-⦁	Giao diện người dùng sử dụng công nghệ React và không lưu trữ dữ liệu ở backend.
-⦁	Ví được sử dụng là MetaMask với mục đích ký và gửi giao dịch.
-⦁	Không triển khai hệ thống token hay NFT trong phạm vi phiên bản đầu tiên.
-4. Ý nghĩa thực tiễn
-Đề tài này đóng vai trò như một mô hình mẫu (prototype) minh họa cho các ứng dụng phi tập trung trong thực tế. Với quy mô nhỏ, đơn giản nhưng rõ ràng, đề tài giúp sinh viên và lập trình viên mới:
-⦁	Hiểu được quy trình hoạt động của Web3.
-⦁	Làm quen với smart contract và các công cụ phát triển ứng dụng blockchain.
-⦁	Mở rộng tư duy xây dựng dApp từ trò chơi đến các lĩnh vực khác như tài chính, bỏ phiếu, truy vết chuỗi cung ứng, và hơn thế nữa
 
 ⦁	TỔNG QUAN VỀ ĐỀ TÀI
 1.1 Bối cảnh phát triển công nghệ
